@@ -16,7 +16,7 @@ Module Module1
                 Console.WriteLine(downloadfile & " does not exits at the specified location")
             End If
         Else
-            Console.WriteLine("This application need the path of the DMS import file to filter as a command line argument")
+            Console.WriteLine("This application needs the path of the DMS import file to filter as a command line argument")
         End If
         Console.WriteLine("done")
     End Sub
