@@ -1,0 +1,2 @@
+# imanage-matters-import-filter-alerts
+This utility takes as its input the import file that will create new matters in the iManage DMS system, then it will filter out the matters already in the system and replace the import file with the filtered one and send an email notification of the new matters created.  This allows for the matter import process to finish quicker and run more frequently through the day.
